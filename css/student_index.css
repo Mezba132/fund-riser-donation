@@ -1,0 +1,180 @@
+
+*{margin:0px auto;padding:0px;}
+.area {
+	padding: 5px 46px 5px 46px;
+}
+.stu_btn li{display:inline-block;padding-right:10px;}
+.stu_btn li a {
+	text-decoration: none;
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 13px;
+}
+.header_top_area {
+	background-color: #72599A;
+	box-shadow: 0px 0px 3px #717275;
+}
+.sch_name h2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 17px;
+	text-transform: uppercase;
+	color: #fff;
+	margin-top: 8px;
+	font-weight: bold;
+}
+.stu_btn {
+	margin-top: 7px;
+}
+
+.course_shedule{color:#767C7F;
+}
+
+
+
+
+
+
+
+.left_section {
+	padding: 2% 0% 30% 4%;
+	box-shadow: 0px 0px 10px #717275;
+}
+
+
+
+
+
+
+
+
+.left_first_first_section h2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	margin-bottom: 25px;
+	color:#767C7F;
+}
+.left_first_first_section ul li a i {
+	margin-right: 5px;
+}
+.left_first_first_section li {
+	list-style: none;
+	display: block;
+	padding: 0px 0px 5px 10px;
+}
+.left_first_first_section li a {
+	text-decoration: none;
+	color: #72599A;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+
+
+
+
+
+.left_first_second_section{margin-top:50px;}
+.left_first_second_section h2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	margin-bottom: 25px;
+	color:#767C7F;
+}
+.left_first_second_section ul li a i {
+	margin-right: 5px;
+}
+.left_first_second_section li {
+	list-style: none;
+	display: block;
+		padding: 0px 0px 5px 10px;
+}
+.left_first_second_section li a {
+	text-decoration: none;
+	color: #03A9F8;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+
+
+.left_first_third_section{margin-top:50px;}
+.left_first_third_section h2 {
+	font-family: 'Oswald', sans-serif;
+	font-size: 20px;
+	margin-bottom: 25px;
+	color:#767C7F;
+}
+.left_first_third_section ul li a i {
+	margin-right: 5px;
+}
+.left_first_third_section li {
+	list-style: none;
+	display: block;
+	padding: 0px 0px 5px 10px;
+}
+.left_first_third_section li a {
+	text-decoration: none;
+	color: #03A9F8;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+
+.nav-tabs > li > a {
+	margin-right: 2px;
+	line-height: 1.42857143;
+	border: 1px solid transparent;
+	border-radius: 4px 4px 0 0;
+	color: #767C7F;
+	font-weight: bold;
+}
+.middele_section {
+	
+	padding: 53px 0px 0px 26px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.footer_area {
+	background-color: #47474A;
+	padding: 20px 0px 10px 0px;
+}
+
+.footer_area p {
+	color: #fff;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+
+.is-sticky .header_top_area {z-index: 99 !important;
+ position: fixed;
+ box-shadow: 0px 0px 25px #717275;
+ 
+}
+
+
+
+
+
